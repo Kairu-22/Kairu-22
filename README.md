@@ -67,12 +67,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kairu-22/Kairu-22/output/snake.svg" alt="Snake animation" />
-
-###
 [![@aarushi's Holopin board](https://holopin.me/aarushi)](https://holopin.io/@aarushi)
 <!--
 **Kairu-22/Kairu-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
